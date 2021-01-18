@@ -1,3 +1,4 @@
+
 # ActiveRecord Validations Lab
 
 ## Basic Validations
